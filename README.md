@@ -30,5 +30,5 @@
 * If you are the subject of, or witness to any violations of this Code of Conduct, please contact one or more of the [InfoSecNZ admins](https://infosecnz.slack.com/account/team)
 * If violations occur, organizers will take any action they deem appropriate for the infraction, up to and including expulsion
 
-Derived from the Slack community code of conduct. Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/) license.
+Derived from the [Slack community code of conduct](https://api.slack.com/docs/community-code-of-conduct). Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/) license.
 
