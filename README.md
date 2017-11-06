@@ -1,3 +1,7 @@
+# Join InfoSecNZ
+
+[Let me in!](https://join.slack.com/t/infosecnz/shared_invite/enQtMjQ4MTI5ODY5NjAwLWFjN2FlMTkxZDI5OWVkYWZlMDQxMDUyZGM1NWEzNzQ2ZGFkYjFhMTY2ODU2YmI3OTUyYmZlODM4N2UxZmExNDE)
+
 # Code of Conduct
 
 ## Introduction
