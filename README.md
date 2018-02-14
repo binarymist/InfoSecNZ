@@ -1,6 +1,10 @@
 # Join InfoSecNZ
 
-[Let me in!](https://join.slack.com/t/infosecnz/shared_invite/enQtMjQ4MTI5ODY5NjAwLWFjN2FlMTkxZDI5OWVkYWZlMDQxMDUyZGM1NWEzNzQ2ZGFkYjFhMTY2ODU2YmI3OTUyYmZlODM4N2UxZmExNDE)
+If you are a New Zealander or live across the ditch and would like to join this slack, contact one of the following:
+
+* [@binarymist](https://twitter.com/binarymist)
+* [@SparkleOps](https://twitter.com/sparkleops)
+* [@noodlesnz](https://twitter.com/noodlesnz)
 
 # Code of Conduct
 
