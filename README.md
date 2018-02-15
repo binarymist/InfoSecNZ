@@ -1,10 +1,11 @@
 # Join InfoSecNZ
 
-If you are a New Zealander or live across the ditch and would like to join this slack, contact one of the following:
+If you are a New Zealander or live across the ditch and would like to join this Slack, contact one of the following:
 
 * [@binarymist](https://twitter.com/binarymist)
 * [@SparkleOps](https://twitter.com/sparkleops)
 * [@noodlesnz](https://twitter.com/noodlesnz)
+* [@RhyvenNZ](https://twitter.com/RhyvenNZ)
 
 # Code of Conduct
 
@@ -12,7 +13,7 @@ If you are a New Zealander or live across the ditch and would like to join this 
 
 * Diversity and inclusion make the InfoSecNZ community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand
 * Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristic
-* This code and related procedures also apply to unacceptable behavior occurring outside the scope of community activities, in all community venues— online and in-person— as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members
+* This code and related procedures also apply to unacceptable behavior occurring outside the scope of community activities, in all community venues — online and in-person — as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members
 
 ## Expected Behavior
 
