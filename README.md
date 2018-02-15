@@ -41,3 +41,6 @@ If you are a New Zealander or live across the ditch and would like to join this 
 
 Derived from the [Slack community code of conduct](https://api.slack.com/docs/community-code-of-conduct). Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/) license.
 
+# Resources
+
+* [Awesome-InfoSecNZ](https://github.com/binarymist/awesome-infosecnz) - The main catch point for InfoSecNZ members
