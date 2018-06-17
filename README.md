@@ -1,4 +1,4 @@
-[![members](https://img.shields.io/badge/members-385-red.svg)](https://img.shields.io/badge/members-385-red.svg)
+[![members](https://img.shields.io/badge/members-403-red.svg)](https://img.shields.io/badge/members-403-red.svg)
 
 # Join InfoSecNZ
 
