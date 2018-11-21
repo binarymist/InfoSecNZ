@@ -1,4 +1,4 @@
-[![members](https://img.shields.io/badge/members-462-red.svg)](https://img.shields.io/badge/members-462-red.svg)
+[![members](https://img.shields.io/badge/members-467-red.svg)](https://img.shields.io/badge/members-467-red.svg)
 
 # Join InfoSecNZ
 
@@ -46,3 +46,5 @@ Derived from the [Slack community code of conduct](https://api.slack.com/docs/co
 # Resources
 
 * [Awesome-InfoSecNZ](https://github.com/binarymist/awesome-infosecnz) - The main catch point for InfoSecNZ members
+* [-Infosec-Media-](https://github.com/BrendanSe/-Infosec-Media-) - Media consumed by [InfoSecNZ](https://github.com/binarymist/InfoSecNZ) Slack
+
