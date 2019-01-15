@@ -5,7 +5,6 @@
 If you are a New Zealander or live across the ditch and would like to join this Slack, contact one of the following:
 
 * [@binarymist](https://twitter.com/binarymist)
-* [@SparkleOps](https://twitter.com/sparkleops)
 * [@noodlesnz](https://twitter.com/noodlesnz)
 * [@RhyvenNZ](https://twitter.com/RhyvenNZ)
 
@@ -48,3 +47,6 @@ Derived from the [Slack community code of conduct](https://api.slack.com/docs/co
 * [Awesome-InfoSecNZ](https://github.com/binarymist/awesome-infosecnz) - The main catch point for InfoSecNZ members
 * [-Infosec-Media-](https://github.com/BrendanSe/-Infosec-Media-) - Media consumed by [InfoSecNZ](https://github.com/binarymist/InfoSecNZ) Slack
 
+# Alumni Admins
+
+* [@SparkleOps](https://twitter.com/sparkleops)
