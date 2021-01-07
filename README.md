@@ -1,5 +1,7 @@
 [![members](https://img.shields.io/badge/members-640-red.svg)](https://img.shields.io/badge/members-640-red.svg)
 
+Since 2017-05
+
 # Join InfoSecNZ
 
 If you are a New Zealander or live across the ditch and would like to join this Slack, contact one of the following:
