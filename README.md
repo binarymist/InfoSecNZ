@@ -4,11 +4,15 @@ Since 2017-05
 
 # Join InfoSecNZ
 
-If you are a New Zealander or live across the ditch and would like to join this Slack, contact one of the following:
+InfoSecNZ is a vibrant community of over 700 Information Secuity people, from students and enthusiasts, to academics, to full-time DFIR experts.  It is open to everyone based in New Zealand, or within the New Zealand Realm (currently including Tokelau, Niue, Cook Islands, and the Ross Dependency).
+
+If you are based within the NZ Realm and would like to join this Slack, contact one of the following admins.
 
 * [@binarymist](https://twitter.com/binarymist), on Twitter
 * [@noodlesnz](https://twitter.com/noodlesnz), on Twitter
 * Rhyven, via Email: aW5mb3NlY256QGVyaWNsaWdodC5jb20= (Base64 encoded to prevent spam, decode with https://www.base64decode.org/)
+
+You will be asked to attest that you've read and accept the Code of Conduct below!
 
 # Code of Conduct
 
