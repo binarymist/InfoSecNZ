@@ -1,10 +1,10 @@
-[![members](https://img.shields.io/badge/members-820-red.svg)](https://img.shields.io/badge/members-820-red.svg)
+[![members](https://img.shields.io/badge/members-842-red.svg)](https://img.shields.io/badge/members-842-red.svg)
 
 Since 2017-05
 
 # Join InfoSecNZ
 
-InfoSecNZ is a vibrant community of over 700 Information Secuity people, from students and enthusiasts, to academics, to full-time DFIR experts.  It is open to everyone based in New Zealand, or within the New Zealand Realm (currently including Tokelau, Niue, Cook Islands, and the Ross Dependency).
+InfoSecNZ is a vibrant community of over 800 Information Secuity people, from students and enthusiasts, to academics, to full-time DFIR experts.  It is open to everyone based in New Zealand, or within the New Zealand Realm (currently including Tokelau, Niue, Cook Islands, and the Ross Dependency).
 
 If you are based within the NZ Realm and would like to join this Slack, contact one of the following admins.
 
