@@ -9,8 +9,6 @@ InfoSecNZ is a vibrant community of over 800 Information Secuity people, from st
 If you are based within the NZ Realm and would like to join this Slack, contact one of the following admins.
 
 * [@binarymist](https://twitter.com/binarymist), on Twitter
-* [@noodlesnz](https://twitter.com/noodlesnz), on Twitter
-* Rhyven, via Email: aW5mb3NlY256QGVyaWNsaWdodC5jb20= (Base64 encoded to prevent spam, decode with https://www.base64decode.org/)
 
 You will be asked to attest that you've read and accept the Code of Conduct below!
 
